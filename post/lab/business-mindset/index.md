@@ -23,7 +23,7 @@ And that's *fine* if all you want is to work at a company managed by someone els
 
 But what if you have an idea, and you want to bring it to market yourself? On your own?
 
-In this case let me say that if you are a mediocre developer and you are mediocre at marketing, it's way better than being a stellar developer and have zero marketing knowledge or interest.
+In this case let me say that if you are a mediocre developer and you are good at marketing, it's way better than being a stellar developer and have zero marketing knowledge or interest.
 
 And imagine what you can do if you are pretty good developer and you can become pretty good at marketing.
 
